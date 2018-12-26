@@ -1,5 +1,9 @@
 #CodeCraks #SmartCity #Esprit
-
+Smart city is an application that manages the security incidents inside an geographical area 
+using CCTV Cameras
+VUE.js
+NODE.js
+PYTHON 
 After cloning
 
 1- Start MongoDB services
